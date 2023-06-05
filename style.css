@@ -112,6 +112,10 @@ article {
     font-family: 'Montserrat', sans-serif;
 }
 
+.button:hover , .button:active {
+    background-color: hsl(212, 21%, 14%);
+}
+
 span {
     margin-left: 10px;
 }
