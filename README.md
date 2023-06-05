@@ -39,8 +39,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [My solution here](https://www.frontendmentor.io/solutions/productpreviewcardcomponent-with-flexbox-and-css-grid-0kKzdkvf7b)
+- Live Site URL: [My project's live site here](https://fcommander181.github.io/product-preview-card-component/)
 
 ## My process
 
